@@ -1,0 +1,31 @@
+# Blender MTL File: 'Match_Created_By_Tyro_Smith.blend'
+# Material Count: 3
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.000000 0.011751
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Material.005
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.776149 0.786709
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd light_wood_free_tiled_background_seamless_texture.jpg
+
+newmtl Material.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.139344 0.139344 0.139344
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd seamless-wood-texture-free-17.jpg
